@@ -1,0 +1,26 @@
+.interests__wrapper {
+    color: #f5f5f5;
+    max-width: 317px;
+    max-height: 399px;
+    background-color: #1a1b21;
+    width: 100%
+}
+
+.interests__section {
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+.interests__title {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.interests__body {
+    font-size: 10.24px;
+    color: #dcdcdc;
+    line-height: 15.36px;
+    width: 248px;
+}

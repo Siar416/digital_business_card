@@ -1,0 +1,21 @@
+.about__wrapper {
+    color: #f5f5f5;
+    max-width: 317px;
+    max-height: 399px;
+    background-color: #1a1b21;
+    width: 100%;
+
+}
+
+.about__title {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.about__body {
+    font-size: 10.24px;
+    color: #dcdcdc;
+    line-height: 15.36px;
+    width: 248px;
+}
